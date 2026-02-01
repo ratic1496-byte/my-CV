@@ -1,3 +1,4 @@
+![MY PHOTO](my_photo.png)
 # Глазков Григорий Александрович
 Должность: QA Engineer
 
